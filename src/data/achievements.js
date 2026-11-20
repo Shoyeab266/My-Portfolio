@@ -1,0 +1,38 @@
+export const achievements = [
+  {
+    id: 1,
+    title: '2nd Prize, in Industry innovation Challenge',
+    issuer: 'Safi Institute of Technology',
+    date: '2026',
+    year: '2026',
+    description: 'Awarded 2nd prize for presenting an innovative project solution addressing real-world industry challenges.',
+    image: '/certificates/hackathon.jpeg',
+  },
+  {
+    id: 2,
+    title: '2-day Solid and Surface modelling by SolidWorks',
+    issuer: 'Mechanical Engineering Association',
+    date: '2026',
+    year: '2026',
+    description: 'Comprehensive hands-on training covering complex 3D parametric modeling, surface creation, and industrial CAD workflows.',
+    image: '/certificates/solidworks.jpeg',
+  },
+  {
+    id: 3,
+    title: 'App Development using Flutter',
+    issuer: 'GDSC (Nit Calicut)',
+    date: '2025',
+    year: '2025',
+    description: 'Intensive workshop on developing high-performance, cross-platform mobile applications using Flutter and Dart.',
+    image: '/certificates/flutter.jpeg',
+  },
+  {
+    id: 4,
+    title: 'Ignis Workshop',
+    issuer: 'Team Unwired (Nit Calicut)',
+    date: '2025',
+    year: '2025',
+    description: 'Hands-on engineering workshop focused on design fundamentals, powertrain systems, and vehicle dynamics.',
+    image: '/certificates/ignis.jpeg',
+  },
+]
